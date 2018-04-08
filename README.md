@@ -12,5 +12,7 @@ The script is designed to check the hash rate of Claymore CryptoNote 11.3 but if
 I will apprecciate any donation:
 
 XMR: 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CW8SdseyiiLQK6cEsGZ
+
 ETH: 0xcb52523A387f3e18644Fe588E5De23A0410021F2
+
 BTC: 3JymexzVaxEgdc56DmS7AH9ysWSoyDGZCQ
