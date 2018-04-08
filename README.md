@@ -5,6 +5,8 @@ Install Python3 from here (the embeddable zip one will be fine): https://www.pyt
 Edit the config in the script "checkminer.py" to your like
 Launch the script and let it run: python checkminer.py
 
+I provided a batch file example to reboot the whole rig if the hash rate is too low. Use the full path to the file.
+
 The script is designed to check the hash rate of Claymore CryptoNote 11.3 but if can be easily twaked to work with any miner that provides a web interface
 
 I will apprecciate any donation:
